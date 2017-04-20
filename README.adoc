@@ -1,0 +1,9 @@
+learn the cyrilic alphabet
+
+----
+npm install
+node test.js
+----
+
+repetition is what i need.. :-)
+
